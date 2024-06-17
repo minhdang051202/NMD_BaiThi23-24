@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NMD_BaiThi23-24.props" />
+</Project>

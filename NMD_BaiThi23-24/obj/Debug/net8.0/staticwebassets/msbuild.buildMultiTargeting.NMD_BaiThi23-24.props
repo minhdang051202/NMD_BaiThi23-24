@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NMD_BaiThi23-24.props" />
+</Project>
