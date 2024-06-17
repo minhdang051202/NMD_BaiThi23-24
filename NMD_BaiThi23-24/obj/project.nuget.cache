@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZkRYQ4xXivI=",
+  "dgSpecHash": "jyFNBhFuGfE=",
   "success": false,
   "projectFilePath": "C:\\Users\\nguye\\OneDrive\\Máy tính\\NMD_BaiThi23-24\\NMD_BaiThi23-24\\NMD_BaiThi23-24.csproj",
   "expectedPackageFiles": [
@@ -43,7 +43,7 @@
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\8.0.6\\microsoft.entityframeworkcore.sqlite.8.0.6.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\8.0.6\\microsoft.entityframeworkcore.sqlite.core.8.0.6.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.0\\microsoft.entityframeworkcore.sqlserver.7.0.0.nupkg.sha512",
-    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.0\\microsoft.entityframeworkcore.tools.7.0.0.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.0\\microsoft.entityframeworkcore.tools.8.0.0.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

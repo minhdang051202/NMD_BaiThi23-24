@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NMD_BaiThi23-24")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+192dc26add3de44f7349296337db0349ba61962b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e02e992c128e89652b459064b79099d6761c07e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("NMD_BaiThi23-24")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NMD_BaiThi23-24")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
